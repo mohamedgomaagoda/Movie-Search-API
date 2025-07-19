@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+aiohttp
+python-dotenv
+pydantic
+python-multipart
+cachetools
+typing-extensions
+
+# Testing dependencies
+pytest
+pytest-asyncio
+httpx
+requests
+pytest-cov 
